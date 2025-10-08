@@ -1,0 +1,110 @@
+[
+  {
+    "id": "grocery1",
+    "category": "groceries",
+    "title": "أرز بسمتي طازج",
+    "image": "assets/groceries/rice1.jpg",
+    "old_price": 25.0,
+    "new_price": 20.0,
+    "detail_url": "https://example.com/product/grocery1"
+  },
+  {
+    "id": "grocery2",
+    "category": "groceries",
+    "title": "زيت زيتون نقي",
+    "image": "assets/groceries/oil1.jpg",
+    "old_price": 15.0,
+    "new_price": 12.0,
+    "detail_url": "https://example.com/product/grocery2"
+  },
+  {
+    "id": "grocery3",
+    "category": "groceries",
+    "title": "حليب طازج كامل الدسم",
+    "image": "assets/groceries/milk1.jpg",
+    "old_price": 5.0,
+    "new_price": 4.0,
+    "detail_url": "https://example.com/product/grocery3"
+  },
+  {
+    "id": "beauty1",
+    "category": "beauty",
+    "title": "أحمر شفاه لامع",
+    "image": "assets/beauty/lipstick1.jpg",
+    "old_price": 50.0,
+    "new_price": 35.0,
+    "detail_url": "https://example.com/product/beauty1"
+  },
+  {
+    "id": "beauty2",
+    "category": "beauty",
+    "title": "كريم ترطيب يومي",
+    "image": "assets/beauty/cream1.jpg",
+    "old_price": 80.0,
+    "new_price": 60.0,
+    "detail_url": "https://example.com/product/beauty2"
+  },
+  {
+    "id": "beauty3",
+    "category": "beauty",
+    "title": "عطر عربي أصيل",
+    "image": "assets/beauty/perfume1.jpg",
+    "old_price": 120.0,
+    "new_price": 90.0,
+    "detail_url": "https://example.com/product/beauty3"
+  },
+  {
+    "id": "mobile1",
+    "category": "mobiles",
+    "title": "هاتف ذكي مثال XYZ",
+    "image": "assets/mobiles/phone1.jpg",
+    "old_price": 299.0,
+    "new_price": 199.0,
+    "detail_url": "https://example.com/product/mobile1"
+  },
+  {
+    "id": "mobile2",
+    "category": "mobiles",
+    "title": "هاتف ذكي سريع ABC",
+    "image": "assets/mobiles/phone2.jpg",
+    "old_price": 450.0,
+    "new_price": 350.0,
+    "detail_url": "https://example.com/product/mobile2"
+  },
+  {
+    "id": "mobile3",
+    "category": "mobiles",
+    "title": "هاتف ذكي اقتصادي DEF",
+    "image": "assets/mobiles/phone3.jpg",
+    "old_price": 150.0,
+    "new_price": 120.0,
+    "detail_url": "https://example.com/product/mobile3"
+  },
+  {
+    "id": "appliance1",
+    "category": "home_appliances",
+    "title": "ثلاجة كبيرة موفرة للطاقة",
+    "image": "assets/home_appliances/fridge1.jpg",
+    "old_price": 1500.0,
+    "new_price": 1200.0,
+    "detail_url": "https://example.com/product/appliance1"
+  },
+  {
+    "id": "appliance2",
+    "category": "home_appliances",
+    "title": "غسالة أوتوماتيكية",
+    "image": "assets/home_appliances/washer1.jpg",
+    "old_price": 800.0,
+    "new_price": 650.0,
+    "detail_url": "https://example.com/product/appliance2"
+  },
+  {
+    "id": "appliance3",
+    "category": "home_appliances",
+    "title": "فرن كهربائي متعدد الوظائف",
+    "image": "assets/home_appliances/oven1.jpg",
+    "old_price": 400.0,
+    "new_price": 320.0,
+    "detail_url": "https://example.com/product/appliance3"
+  }
+]
